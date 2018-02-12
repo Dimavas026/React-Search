@@ -1,0 +1,40 @@
+.contacts {
+	width: 200px;
+	margin: 0 auto;
+}
+
+.contacts-list {
+	padding: 0;
+	width: 100px;
+}
+
+.contacts-input {
+	width: 200px;
+	padding: 10px;
+	font-size: 16px;
+}
+
+.contact {
+	width: 200px;
+	border-bottom: 1px solid grey;
+	padding: 5px;
+	margin: 5px;
+	align-items: center;
+	display: flex;
+}
+
+.contact-name, .contact-surname {
+	font-size: 16px;
+	font-weight: bold;
+}
+.contact-phone {
+	font-size: 16px;
+	color: grey;
+}
+
+.contact-img {
+	border-radius: 50px;
+	margin: 5px;
+}
+
+
